@@ -5,5 +5,5 @@ from spritesheets.
 
 # Dependencies
 
-- Python 3.10.
-- https://www.pygame.org
+- Python 3.9.7
+- https://www.pygame.org, this include pygame and pygame gui
